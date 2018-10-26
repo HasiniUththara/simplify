@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void display(float a[20][20],int n)
+void display(float a[10][10],int n)
 {
 	  int i,j;
 	  for(i=0;i<n;i++)
